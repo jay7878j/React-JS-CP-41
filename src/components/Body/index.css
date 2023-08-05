@@ -1,0 +1,19 @@
+.body {
+  display: flex;
+  height: 50vh;
+  background-color: #f1f5f9;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.navbar {
+  width: 30%;
+  background-color: #e2e8f0;
+  padding: 20px;
+}
+
+.content {
+  width: 100%;
+  background-color: #f1f5f9;
+  padding: 20px;
+}
